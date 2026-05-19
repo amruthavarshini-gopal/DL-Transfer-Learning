@@ -85,20 +85,20 @@ def train_model(model, train_loader,test_loader,num_epochs=100):
     plt.show()
 ```
 
-### OUTPUT
+## OUTPUT
 
-## Training Loss, Validation Loss Vs Iteration Plot
+### Training Loss, Validation Loss Vs Iteration Plot
 
 <img width="622" height="683" alt="Screenshot 2026-05-19 095231" src="https://github.com/user-attachments/assets/3cd6238b-320e-4746-bb6a-1abf858154b7" />
 
 <img width="884" height="664" alt="Screenshot 2026-05-19 095245" src="https://github.com/user-attachments/assets/056044cb-8163-457b-b8cb-4b9c21cbbfa6" />
 
 
-## Confusion Matrix
+### Confusion Matrix
 
 <img width="834" height="686" alt="Screenshot 2026-05-19 095302" src="https://github.com/user-attachments/assets/e8a2ac2e-3b2c-4756-911c-8022eb32fa41" />
 
-## Classification Report
+### Classification Report
 <img width="661" height="253" alt="Screenshot 2026-05-19 095311" src="https://github.com/user-attachments/assets/c0f7bf94-fa23-4aff-8b9e-93e411dcf01e" />
 
 

@@ -73,8 +73,8 @@ def train_model(model, train_loader,test_loader,num_epochs=100):
       print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Validation Loss: {val_losses[-1]:.4f}')
 
     # Plot training and validation loss
-    print("Name: Dhanusya K")
-    print("Register Number: 212223230043")
+    print("Name: Amruthavarshini Gopal")
+    print("Register Number: 212223230013")
     plt.figure(figsize=(8, 6))
     plt.plot(range(1, num_epochs + 1), train_losses, label='Train Loss', marker='o')
     plt.plot(range(1, num_epochs + 1), val_losses, label='Validation Loss', marker='s')
